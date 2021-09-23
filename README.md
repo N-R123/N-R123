@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N-R123
-- 👀 I’m interested in solving real world and complicated problem easily through code 😊,also interested in web developement 💻 and have a great enthusiam in machine learning.
+- 👀 I’m interested in solving real world and complicated problem easily through code 😊,also interested in web development 💻 and have a great enthusiam in machine learning.
 I am always ready to take challenges.
 - 🌱 I’m currently learning Data structure and Algorithms and very soon going to start JavaScript.
 - 💞️ I’m looking to collaborate on ...
